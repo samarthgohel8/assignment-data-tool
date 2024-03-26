@@ -1,2 +1,2 @@
 # assignment-data-tool
-Tool to manage assignment data. 
+Assignment data tool plugin to manage list of data and output those data with [adt_listing] shortcode
